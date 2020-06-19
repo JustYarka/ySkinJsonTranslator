@@ -1,0 +1,5 @@
+name: ySkinJsonTranslator
+main: ru.yarka.skinjson.SkinJsonTranslator
+api: 1.0.9
+version: 1.1.0
+author: YarkaDev
